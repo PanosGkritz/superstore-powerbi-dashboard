@@ -1,0 +1,77 @@
+{
+  "name": "Superstore Clean",
+  "dataColors": [
+    "#2E6F95",
+    "#9AA5B1",
+    "#E3A04F",
+    "#5B8C5A",
+    "#B85450",
+    "#6C5B7B",
+    "#4F9DA6",
+    "#C9B79C"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#252423",
+  "tableAccent": "#2E6F95",
+  "good": "#3A7D44",
+  "neutral": "#9AA5B1",
+  "bad": "#B85450",
+  "maximum": "#2E6F95",
+  "center": "#E8EDF1",
+  "minimum": "#B85450",
+  "textClasses": {
+    "callout": {
+      "fontSize": 22,
+      "fontFace": "Segoe UI Semibold",
+      "color": "#252423"
+    },
+    "title": {
+      "fontSize": 11,
+      "fontFace": "Segoe UI Semibold",
+      "color": "#3B3A39"
+    },
+    "header": {
+      "fontSize": 11,
+      "fontFace": "Segoe UI Semibold",
+      "color": "#3B3A39"
+    },
+    "label": {
+      "fontSize": 9,
+      "fontFace": "Segoe UI",
+      "color": "#605E5C"
+    }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#FFFFFF" } },
+            "transparency": 0
+          }
+        ],
+        "border": [
+          {
+            "show": false
+          }
+        ],
+        "dropShadow": [
+          {
+            "show": false
+          }
+        ]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [
+          {
+            "color": { "solid": { "color": "#F3F4F6" } },
+            "transparency": 0
+          }
+        ]
+      }
+    }
+  }
+}
