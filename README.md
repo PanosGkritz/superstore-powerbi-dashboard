@@ -132,4 +132,7 @@ Open `03_powerbi/Superstore_Sales_BI.pbix` in Power BI Desktop. To refresh the d
 
 ## Author
 
-Panagiotis Gkritzalis, MSc candidate in Information Systems & Services, University of Piraeus.
+Panagiotis Gkritzalis, MSc candidate in Information Systems & Services, University of Piraeus
+
+- LinkedIn: [linkedin.com/in/panagiotis-gkritzalis](https://www.linkedin.com/in/panagiotis-gkritzalis/)
+- GitHub: [github.com/PanosGkritz](https://github.com/PanosGkritz)
